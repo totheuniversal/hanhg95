@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @hanhg95
+- 👋 Hi, I’m @Mia
 - 👀 I’m interested in CAD design, programing, diy, photography, reading book, travel,gym.
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on python and matlab project
-- 📫 How to reach me : hanhg95@gmail.com
+- 📫 How to reach me : miaphan902@gmail.com
 
 <!---
 hanhg95/hanhg95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
